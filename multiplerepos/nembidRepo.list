@@ -1,0 +1,15 @@
+https://github.com/AGLEnergy/agl.wholesale.bidding.api.core 
+https://github.com/AGLEnergy/agl.wholesale.battery_auto_rebidding.dashboard
+https://github.com/AGLEnergy/agl.wholesale.battery_auto_rebidding_core
+https://github.com/AGLEnergy/agl.wholesale.bidding.semi-scheduled
+https://github.com/AGLEnergy/agl.wholesale.bidding.futurebid
+https://github.com/AGLEnergy/agl.wholesale.bidding.fcas_rebid
+https://github.com/AGLEnergy/agl.wholesale.wind_oracle.core
+https://github.com/AGLEnergy/agl.wholesale.wind_oracle.model
+https://github.com/AGLEnergy/agl.wholesale.bidding.int-gen
+https://github.com/AGLEnergy/agl.wholesale.bidding.vpp
+https://github.com/AGLEnergy/agl.wholesale.orchestration.api
+https://github.com/AGLEnergy/agl.wholesale.bidding.bips
+https://github.com/AGLEnergy/agl.wholesale.nembid
+https://github.com/AGLEnergy/agl.wholesale.electricity.bidding.api
+https://github.com/AGLEnergy/agl.wholesale.bidding.pi
